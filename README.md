@@ -1,1 +1,3 @@
 # Student-Grade-Predictor
+Abstract:
+This project explores the application of supervised machine learning to predict academic performance based on student study habits. Utilizing Python, Scikit-Learn, and Streamlit, a Linear Regression model was developed to analyze the correlation between daily study hours, past academic scores, and final examination marks. The resulting web application allows users to input their personal academic metrics via an interactive interface to receive real-time grade predictions and visual trend analysis. This project successfully demonstrates the end-to-end deployment of a predictive machine learning model coupled with a user-friendly frontend.
